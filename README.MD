@@ -41,7 +41,7 @@ const mentorSchema = new mongoose.Schema({
 5. Write API to show all students for a particular mentor
 6. Write an API to show the previously assigned mentor for a particular student.
 
-Packages Used:
+### Packages Used:
  
  - npm init
  - npm install mongoose
